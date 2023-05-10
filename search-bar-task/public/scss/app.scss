@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+// color variables
+$primary: #25cb5a;
+$gray: #d5dbdf;
+$dark: #0b0814;
+$white: #ffffff;
+
+:root {
+	--primary: #{$primary};
+	--gray: #{$gray};
+	--dark: #{$dark};
+	--white: #{$white};
+}

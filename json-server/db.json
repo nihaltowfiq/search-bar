@@ -1,0 +1,64 @@
+{
+    "search": [
+        {
+            "id": "1",
+            "name": "Capacitive Soil Moisture Sensor",
+            "image": "https://i.ibb.co/rF11jCp/capacitor.png",
+            "price": 829
+        },
+        {
+            "id": "2",
+            "name": "Arduino Leonardo",
+            "image": "https://i.ibb.co/Btx7Q6w/board.jpg",
+            "price": 649
+        },
+        {
+            "id": "3",
+            "name": "Water Level Control Switch",
+            "image": "https://i.ibb.co/rF11jCp/capacitor.png",
+            "price": 199
+        },
+        {
+            "id": "4",
+            "name": "Battery Charger Control Module",
+            "image": "https://i.ibb.co/Btx7Q6w/board.jpg",
+            "price": 256
+        },
+        {
+            "id": "5",
+            "name": "Dual Motor Controller Module",
+            "image": "https://i.ibb.co/rF11jCp/capacitor.png",
+            "price": 555
+        },
+        {
+            "id": "6",
+            "name": "Microcontroller Programmer",
+            "image": "https://i.ibb.co/Btx7Q6w/board.jpg",
+            "price": 649
+        },
+        {
+            "id": "7",
+            "name": "Wireless Adapter Module",
+            "image": "https://i.ibb.co/rF11jCp/capacitor.png",
+            "price": 829
+        },
+        {
+            "id": "8",
+            "name": "NodeMcu Lua V3 ESP8266 WiFi with CH340G",
+            "image": "https://i.ibb.co/Btx7Q6w/board.jpg",
+            "price": 649
+        },
+        {
+            "id": "9",
+            "name": "USBASP USBISP AVR Programmer",
+            "image": "https://i.ibb.co/rF11jCp/capacitor.png",
+            "price": 829
+        },
+        {
+            "id": "10",
+            "name": "Resistor",
+            "image": "https://i.ibb.co/Btx7Q6w/board.jpg",
+            "price": 59
+        }
+    ]
+}
